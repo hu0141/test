@@ -7,5 +7,6 @@ public class Helloworld {
 		System.out.println("update");
 		System.out.println("test");
 		System.out.println("!!!!!!!!");
+		System.out.println("commit");
 	}
 }
